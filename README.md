@@ -1,4 +1,4 @@
-# <links.vexcited.com>
+# [`links.vexcited.com`](https://links.vexcited.com/)
 
 A very simple linktree with the links to all my socials.
 Nothing fancy, just a simple list of links.
