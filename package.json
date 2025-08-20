@@ -12,7 +12,7 @@
   "dependencies": {
     "@astrojs/check": "^0.9.3",
     "@unocss/reset": "^0.62.3",
-    "astro": "^4.15.4",
+    "astro": "^4.16.19",
     "typescript": "^5.6.2"
   },
   "devDependencies": {
